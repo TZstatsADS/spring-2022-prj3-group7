@@ -13,7 +13,7 @@ Term: Spring 2022
 	+ Huiying Wang
 	+ Krista Zhang
 
-+ Project summary: In this project, we created 
++ Project summary: In this project, we developed and evaluate a new method that exploit a combination of clean data and noisy data to improve the classification accuracy for images from CIFAR-10 dataset.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
